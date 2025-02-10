@@ -1,5 +1,17 @@
 <h1> This a step-by-step on how to create a snake animation</h1>
 
+<h3> FINAL RESULT </h3>
+
+<div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mmiguelo/mmiguelo/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mmiguelo/mmiguelo/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mmiguelo/mmiguelo/output/github-contribution-grid-snake.svg">
+</picture>
+</div>
+
+<h3> GUIDE </h3>
+
 <ol>
 <li> Create your own repository (if you already have one, please skip this step)</li>
   
