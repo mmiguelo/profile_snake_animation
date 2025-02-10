@@ -88,3 +88,5 @@
 <br><br>
 <li> Time to apreciate your new repository animation. Just make sure to commit more often so the 🐍 does not go hungry 😋 </li>
 </ol>
+
+<h3> If you enjoyed this guide and want more guides please feel free to reach me on <a href=" or email </h3>
