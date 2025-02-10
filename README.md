@@ -25,7 +25,7 @@
  ⚠️⚠️
 
   <li> Commit the changes</li>
-   - click on the top right icon &nbsp;&nbsp;<img src="https://github.com/user-attachments/assets/46edc582-306e-4914-920c-2c32a9247ed3" width="90"> so it is saved.
+   - click on the top right icon &nbsp;<img src="https://github.com/user-attachments/assets/46edc582-306e-4914-920c-2c32a9247ed3" width="90">&nbsp; so it is saved.
 
 
   </ol>
