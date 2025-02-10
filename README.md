@@ -52,7 +52,5 @@
 </ul>
 <br><br>
     <li> Now that everything is saved it's time to run the animation  </li> 
-    
-![giphy](https://github.com/user-attachments/assets/e5fa542d-5e2a-480d-ac0d-735e39d5594f)
 
   </ol>
