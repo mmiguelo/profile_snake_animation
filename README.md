@@ -34,7 +34,7 @@
 <li> Copy the yml code from my <a href="https://github.com/mmiguelo/mmiguelo/blob/main/.github/workflows/main.yml">Repository</a> </li>
 
   <ul>
-  <li>Since the code is quite extensive, I thought it was better to not put it here</li>
+  <li>Since the code is quite extensive, I thought it was better to not put it here, so just click on the link above in "Repository"</li>
 </ul>
 
   </ol>
