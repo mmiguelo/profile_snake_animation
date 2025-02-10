@@ -1,10 +1,18 @@
 <h1> This a step-by-step on how to create a snake animation</h1>
 
-<h3> FINAL RESULT </h3>
+<h3> Final Result For Dark Light Scheme </h3>
 
 <div>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mmiguelo/mmiguelo/output/github-contribution-grid-snake-dark.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mmiguelo/mmiguelo/output/github-contribution-grid-snake.svg">
+</picture>
+</div>
+
+<h3> Final Result For Light Color Scheme </h3>
+
+<div>
+<picture>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mmiguelo/mmiguelo/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mmiguelo/mmiguelo/output/github-contribution-grid-snake.svg">
 </picture>
@@ -60,8 +68,16 @@
 <img src="https://github.com/user-attachments/assets/7a081d56-d07a-4696-b397-3a06a7ec25bb">
 <br><br>
     <li> Now is the time to paste the yml code from before 🚀 </li>
+<br>
           <li> just leave the name of the workflow as it is (main.yml)</li>
-          <li>Dont forget to &nbsp;<img src="https://github.com/user-attachments/assets/46edc582-306e-4914-920c-2c32a9247ed3" width="90">&nbsp; 😜 </li>
+<br>
+</ul>
+ <li>  Choose which Color Scheme you prefer </li>
+<br>
+<ul>
+  <li> leave has it is if you like Dark, or delete the first <strong>source line</strong> if you prefer light </li>
+<br>
+  <li>Dont forget to &nbsp;<img src="https://github.com/user-attachments/assets/46edc582-306e-4914-920c-2c32a9247ed3" width="90">&nbsp; 😜 </li>
 </ul>
 <br><br>
     <li> Now that everything is saved it's time to run the animation 🏃🏻‍♂️ </li> 
