@@ -28,8 +28,9 @@
   
 <br><br>
   <li> Commit the changes</li>
-   - Click on the top right icon &nbsp;<img src="https://github.com/user-attachments/assets/46edc582-306e-4914-920c-2c32a9247ed3" width="90">&nbsp; so it is saved.
-
+<ul>
+   <li> Click on the top right icon &nbsp;<img src="https://github.com/user-attachments/assets/46edc582-306e-4914-920c-2c32a9247ed3" width="90">&nbsp; so it is saved. </li>
+</ul>
 <br><br>
 <li> Copy the yml code from my <a href="https://github.com/mmiguelo/mmiguelo/blob/main/.github/workflows/main.yml">Repository</a> to yours</li>
 
@@ -52,4 +53,10 @@
 </ul>
 <br><br>
     <li> Now that everything is saved it's time to run the animation 🏃🏻‍♂️ </li> 
-  </ol>
+<br>
+<ul>
+    <li> click on the top right icon &nbsp;<img src="https://github.com/user-attachments/assets/5ad25938-67d6-426f-8145-6ccb97ccb58c" width="10%"> and then  &nbsp;<img src="https://github.com/user-attachments/assets/5c447b58-8bee-4052-ba56-cf01bc1f98cf" width="15%"> </li>
+</ul>
+<br><br>
+<li> Time to apreciate your new repository animation. Just make sure to commit more often so the 🐍 does not go hungry 😋 </li>
+</ol>
