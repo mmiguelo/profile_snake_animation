@@ -51,6 +51,8 @@
           <li>Dont forget to &nbsp;<img src="https://github.com/user-attachments/assets/46edc582-306e-4914-920c-2c32a9247ed3" width="90">&nbsp; 😜 </li>
 </ul>
 <br><br>
-    <li> Now that everything is saved it's time to run the animation <img src="https://github.com/user-attachments/assets/fd310afe-1cea-4318-9b54-45f9f5ce648b">
-</li>
+    <li> Now that everything is saved it's time to run the animation  </li> 
+    
+![giphy](https://github.com/user-attachments/assets/e5fa542d-5e2a-480d-ac0d-735e39d5594f)
+
   </ol>
