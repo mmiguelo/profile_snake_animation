@@ -85,6 +85,7 @@
 <ul>
     <li> click on the top right icon &nbsp;<img src="https://github.com/user-attachments/assets/5ad25938-67d6-426f-8145-6ccb97ccb58c" width="10%"> and then  &nbsp;<img src="https://github.com/user-attachments/assets/5c447b58-8bee-4052-ba56-cf01bc1f98cf" width="15%"> </li>
 </ul>
+
 <br><br>
 <li> Time to apreciate your new repository animation. Just make sure to commit more often so the 🐍 does not go hungry 😋 </li>
 </ol>
@@ -92,3 +93,6 @@
 <h3> If you enjoyed this guide and want more guides please feel free to reach me on:  </h3>
 <br>
 <a href="https://discord.com/users/558375144213577728" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
+
+
+<p align="right">(<a href="#readme-top">get to top</a>)</p>
