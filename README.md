@@ -1,3 +1,4 @@
+<a name="readme-top"></a>
 <h1> This a step-by-step on how to create a snake animation</h1>
 
 <h3> Final Result For Dark Light Scheme </h3>
